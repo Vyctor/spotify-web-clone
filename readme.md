@@ -8,10 +8,10 @@
 # Spotify Web Clone
 Clone of Spotify Web interface, made with HTML, CSS and Bootstrap.
 
-[Imagem 1](./assets/spotify-one.png)
-[Imagem 1](./assets/spotify-two.png)
-[Imagem 1](./assets/spotify-three.png)
 
+<img src="./assets/spotify-one.png">
+<img src="./assets/spotify-two.png">
+<img src="./assets/spotify-three.png"> 
 
 ## 📝 License
 
